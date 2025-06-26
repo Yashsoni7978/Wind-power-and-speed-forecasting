@@ -77,8 +77,3 @@ A project built to enhance forecasting skills and practical exposure to time ser
 
 For collaboration or queries:  
 📧 yashsoni.ds@gmail.com  
-🔗 [LinkedIn – Yash Soni](https://www.linkedin.com/in/yash-soni-123)
-
----
-
-🔋 _Let’s power the future with data-driven energy solutions!_
