@@ -71,9 +71,3 @@ A project built to enhance forecasting skills and practical exposure to time ser
 - Practical use of time series models in energy forecasting  
 - Model interpretation and business use-case alignment
 
----
-
-## 📬 Contact
-
-For collaboration or queries:  
-📧 yashsoni.ds@gmail.com  
